@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">UNL_bathroom</string>
+    <string name="app_name">UNL Bathrooms</string>
+    <string name="title">UNL Bathroom Directory</string>
+    <string name="find_bathrooms">Find Bathrooms!</string>
+    <string-array name="unl_buildings">
+        <item>Avery Hall</item>
+        <item>Burnett Hall</item>
+        <item>Oldfather Hall</item>
+    </string-array>
 </resources>
