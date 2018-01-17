@@ -24,4 +24,5 @@ public class MainActivity extends Activity {
         //Get the selected item in the Spinner
         String buildingName = String.valueOf(building.getSelectedItem());
     }
+    //test again
 }
