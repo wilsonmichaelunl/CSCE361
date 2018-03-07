@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/michael/.android/build-cache/937a2819a1b59ecc42b18b1715828b8a2823a6e5/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/michael/.android/build-cache/47c2c1cb1f972e3ae2d7b36d76bf73219d99d637/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/michael/.android/build-cache/9869ff474a6f63d026631fa834dd7c26a8f1922e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/michael/.android/build-cache/5ed7986a22ba60dffc6cfc532cf2b9a01bc3fbf5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/michael/.android/build-cache/fd0141e65f5046a17c8e4e03faed5650cd13b152/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/michael/.android/build-cache/93ff7ea86f5fe3f1f9a64538222229a769271be7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/michael/.android/build-cache/691b78489465a7b64b044e3472be78f0a8d482cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/michael/.android/build-cache/f34f0e2b957ee59e7cd3ba2f85b1b32a09530aa6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/michael/.android/build-cache/c8cb2a6d4afcb8ba114c06cf76cc266c7ee52f7f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/michael/.android/build-cache/ed8afd2c5acfa697a6e3c065265816b3b1830e0f/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.carlscrate.unl_bathroom.MainActivity
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.carlscrate.unl_bathroom.AveryActivity
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:19:19-48
+activity#com.carlscrate.unl_bathroom.UnderConstruction
+ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml:21:19-52
+uses-sdk
+INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/michael/.android/build-cache/937a2819a1b59ecc42b18b1715828b8a2823a6e5/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/michael/.android/build-cache/47c2c1cb1f972e3ae2d7b36d76bf73219d99d637/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/michael/.android/build-cache/9869ff474a6f63d026631fa834dd7c26a8f1922e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/michael/.android/build-cache/5ed7986a22ba60dffc6cfc532cf2b9a01bc3fbf5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/michael/.android/build-cache/fd0141e65f5046a17c8e4e03faed5650cd13b152/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/michael/.android/build-cache/93ff7ea86f5fe3f1f9a64538222229a769271be7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/michael/.android/build-cache/691b78489465a7b64b044e3472be78f0a8d482cf/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/michael/.android/build-cache/f34f0e2b957ee59e7cd3ba2f85b1b32a09530aa6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/michael/.android/build-cache/c8cb2a6d4afcb8ba114c06cf76cc266c7ee52f7f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/michael/.android/build-cache/ed8afd2c5acfa697a6e3c065265816b3b1830e0f/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/michael/.android/build-cache/47c2c1cb1f972e3ae2d7b36d76bf73219d99d637/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+		INJECTED from /home/michael/git/UNL_bathroom/Code/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/michael/.android/build-cache/47c2c1cb1f972e3ae2d7b36d76bf73219d99d637/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/michael/.android/build-cache/9869ff474a6f63d026631fa834dd7c26a8f1922e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/michael/.android/build-cache/5ed7986a22ba60dffc6cfc532cf2b9a01bc3fbf5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/michael/.android/build-cache/fd0141e65f5046a17c8e4e03faed5650cd13b152/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/michael/.android/build-cache/93ff7ea86f5fe3f1f9a64538222229a769271be7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/michael/.android/build-cache/691b78489465a7b64b044e3472be78f0a8d482cf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/michael/.android/build-cache/f34f0e2b957ee59e7cd3ba2f85b1b32a09530aa6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/michael/.android/build-cache/c8cb2a6d4afcb8ba114c06cf76cc266c7ee52f7f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/michael/.android/build-cache/ed8afd2c5acfa697a6e3c065265816b3b1830e0f/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/michael/.android/build-cache/47c2c1cb1f972e3ae2d7b36d76bf73219d99d637/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/michael/.android/build-cache/47c2c1cb1f972e3ae2d7b36d76bf73219d99d637/output/AndroidManifest.xml:26:9-47

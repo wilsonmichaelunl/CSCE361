@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/michael/git/UNL_bathroom/Code/app/build/intermediates/res/merged/debug/layout-land/activity_avery.xml",
+        "source": "/home/michael/git/UNL_bathroom/Code/app/src/main/res/layout-land/activity_avery.xml"
+    },
+    {
+        "merged": "/home/michael/git/UNL_bathroom/app/build/intermediates/res/merged/debug/layout-land/activity_avery.xml",
+        "source": "/home/michael/git/UNL_bathroom/app/src/main/res/layout-land/activity_avery.xml"
+    },
+    {
+        "merged": "/home/michael/git/UNL_bathroom/Code/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/home/michael/git/UNL_bathroom/Code/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/michael/git/UNL_bathroom/app/build/intermediates/res/merged/debug/layout-land/activity_main.xml",
+        "source": "/home/michael/git/UNL_bathroom/app/src/main/res/layout-land/activity_main.xml"
+    }
+]
