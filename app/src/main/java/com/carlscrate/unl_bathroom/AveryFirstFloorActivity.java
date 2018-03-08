@@ -9,21 +9,21 @@ import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-public class AveryBasementFloorActivity extends Activity {
+public class AveryFirstFloorActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_avery_basement_floor);
+        setContentView(R.layout.activity_avery_first_floor);
 
         //Makes the image of the floor plan link to website
-        ImageView img = (ImageView)findViewById(R.id.avery_basement_imageView);
+        ImageView img = (ImageView)findViewById(R.id.avery_first_imageView);
         img.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v){
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_VIEW);
                 intent.addCategory(Intent.CATEGORY_BROWSABLE);
-                intent.setData(Uri.parse("https://www.math.unl.edu/resources/floorplan/?floor=0"));
+                intent.setData(Uri.parse("https://www.math.unl.edu/resources/floorplan/?floor=1"));
                 startActivity(intent);
             }
         });
@@ -44,12 +44,12 @@ public class AveryBasementFloorActivity extends Activity {
                     */
 
                     case 1:
-                        Intent intent = new Intent(AveryBasementFloorActivity.this, AveryMens0Activity.class);
+                        Intent intent = new Intent(AveryFirstFloorActivity.this, AveryMens0Activity.class);
                         startActivity(intent);
                         break;
 
                     default:
-                        intent = new Intent(AveryBasementFloorActivity.this, UnderConstruction.class);
+                        intent = new Intent(AveryFirstFloorActivity.this, UnderConstruction.class);
                         startActivity(intent);
                         break;
                 }

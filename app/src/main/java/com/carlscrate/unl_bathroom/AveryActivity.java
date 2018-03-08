@@ -20,6 +20,8 @@ public class AveryActivity extends Activity {
                                     View floorView,
                                     int position,
                                     long id) {
+
+                /*
                 switch (position) {
                     case 0:
                         //The intent is coming from AveryActivity, it needs to launch FloorActivity
@@ -27,10 +29,27 @@ public class AveryActivity extends Activity {
                         startActivity((intent));
                         break;
 
+                    case 1:
+                        intent = new Intent(AveryActivity.this, AveryFirstFloorActivity.class);
+                        startActivity((intent));
+                        break;
+
                     default:
                         intent = new Intent(AveryActivity.this, UnderConstruction.class);
                         startActivity(intent);
                         break;
+                }
+                */
+                if(position == 0){
+                    //The intent is coming from AveryActivity, it needs to launch FloorActivity
+                    Intent intent = new Intent(AveryActivity.this, AveryBasementFloorActivity.class);
+                    startActivity((intent));
+                }else if(position == 1){
+                    Intent intent = new Intent(AveryActivity.this, AveryFirstFloorActivity.class);
+                    startActivity((intent));
+                }else{
+                    Intent intent = new Intent(AveryActivity.this, UnderConstruction.class);
+                    startActivity(intent);
                 }
 
 
