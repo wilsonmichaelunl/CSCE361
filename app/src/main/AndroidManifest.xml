@@ -27,7 +27,7 @@
             android:name=".UnderConstruction"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryBasementFloor"
+        <activity android:name=".AveryBasementFloorActivity"
                   android:screenOrientation="portrait">
         </activity>
     </application>
