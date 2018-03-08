@@ -23,7 +23,7 @@ public class AveryActivity extends Activity {
                 switch (position) {
                     case 0:
                         //The intent is coming from AveryActivity, it needs to launch FloorActivity
-                        Intent intent = new Intent(AveryActivity.this, AveryBasementFloor.class);
+                        Intent intent = new Intent(AveryActivity.this, AveryBasementFloorActivity.class);
                         startActivity((intent));
                         break;
 
