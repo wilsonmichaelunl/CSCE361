@@ -37,6 +37,8 @@
         </activity>
         <activity android:name=".AveryFirstFloorActivity">
         </activity>
+        <activity android:name=".AveryMens1Activity">
+        </activity>
     </application>
 
 </manifest>

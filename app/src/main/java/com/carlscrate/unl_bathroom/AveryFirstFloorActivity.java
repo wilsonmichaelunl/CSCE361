@@ -44,7 +44,7 @@ public class AveryFirstFloorActivity extends Activity {
                     */
 
                     case 1:
-                        Intent intent = new Intent(AveryFirstFloorActivity.this, AveryMens0Activity.class);
+                        Intent intent = new Intent(AveryFirstFloorActivity.this, AveryMens1Activity.class);
                         startActivity(intent);
                         break;
 
@@ -57,7 +57,7 @@ public class AveryFirstFloorActivity extends Activity {
         };
 
         //Adding the listener to the list view
-        ListView listView = (ListView) findViewById(R.id.avery_basement_bathrooms);
+        ListView listView = (ListView) findViewById(R.id.avery_first_bathrooms);
         listView.setOnItemClickListener(itemClickListener);
     }
 }
