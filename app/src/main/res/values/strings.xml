@@ -7,6 +7,7 @@
     <string name="avery_description">On City Campus, Avery Hall is southeast of Memorial Stadium and home to the Math and Computer Science departments</string>
     <string name="under_construction">This page is currently under construction</string>
     <string name="avery_hall_basement">Avery Hall Basement</string>
+    <string name="avery_hall_first">Avery Hall 1st Floor</string>
     <string name="floor_plan_description">Men\'s bathrooms will be denoted by an \"M\", followed by a number (Ex:M1). Women\'s bathrooms will be denoted by an \"W\", followed by a number (Ex:W1).</string>
     <string name="one_star">1 star</string>
     <string name="two_stars">2 stars</string>
@@ -17,6 +18,11 @@
     In between classes this bathroom becomes very busy, causing it to be quite messy at times. What do I mean by messy? Sometimes you go into a stall and it looks like
     teenagers were TP-ing a house that wouldn\'t give them candy on Halloween. Because of the amount of traffic, this bathroom gets 3 stars in spite of it\'s large amount
     of amenities.</string>
+    <string name="avery_mens_first">On the busiest floor of Avery sits the smallest bathroom in the building. One urinal, one stall, and two sinks. If you try to use this
+    bathroom in between classes, prepare to wait in line. If you\'re patient enough to wait in line, you will realize the pressure on your shoulders once it\'s your turn. You can
+    feel the eyes on the back of your head, glaring at you to hurry up and finish. Expect no privacy in here. The only plus side of this bathroom is it is relatively clean for
+    how much traffic it receives. This is because if someone makes a mess, it\'s easy to find the culprit. There is no way you can wash your hands and exit the bathroom without
+    someone seeing what you\'ve done. You will be caught.</string>
     <string-array name="unl_buildings">
         <item>Avery Hall</item>
         <item>Burnett Hall</item>

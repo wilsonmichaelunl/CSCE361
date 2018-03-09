@@ -31,8 +31,15 @@
             android:name=".AveryBasementFloorActivity"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryMens0Activity"
+        <activity
+            android:name=".AveryMens0Activity"
             android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryFirstFloorActivity"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryMens1Activity"
+                  android:screenOrientation="portrait">>
         </activity>
     </application>
 
