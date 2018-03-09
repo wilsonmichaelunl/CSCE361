@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:numStars="5"
-        android:stepSize="1.0"
+        android:stepSize="0.5"
         android:rating="1.5"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -26,10 +26,10 @@
 
 
     <ImageView
-        android:id="@+id/avery_basement_mens"
+        android:id="@+id/avery_first_mens"
         android:layout_width="296dp"
         android:layout_height="194dp"
-        android:src="@drawable/averybathroommens"
+        android:src="@drawable/averymensfirst"
         android:contentDescription="@string/avery_mens_first"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
@@ -45,12 +45,12 @@
         />
 
     <TextView
-        android:id="@+id/avery_basement_mens_description"
+        android:id="@+id/avery_first_mens_description"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="@string/avery_mens_basement"
+        android:text="@string/avery_mens_first"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
