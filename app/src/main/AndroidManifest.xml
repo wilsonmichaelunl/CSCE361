@@ -35,11 +35,22 @@
             android:name=".AveryMens0Activity"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryFirstFloorActivity"
-                  android:screenOrientation="portrait">
+        <activity
+            android:name=".AveryFirstFloorActivity"
+            android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryMens1Activity"
-                  android:screenOrientation="portrait">>
+        <activity
+            android:name=".AveryMens1Activity"
+            android:screenOrientation="portrait">
+            >
+        </activity>
+        <activity android:name=".AverySecondFloorActivity">
+        </activity>
+        <activity android:name=".AveryMens2Activity">
+        </activity>
+        <activity android:name=".AveryThirdFloorActivity">
+        </activity>
+        <activity android:name=".AveryMens3Activity">
         </activity>
     </application>
 
