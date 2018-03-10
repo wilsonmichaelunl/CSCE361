@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/michael/git/UNL_bathroom/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/michael/git/UNL_bathroom/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0891dc7d970d5b6f833a291e095b4f73f2672fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/.android/build-cache/a7b936e671e96325b216d8f9d7ca6725a0b1a85e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/michael/git/UNL_bathroom/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c1daddba7efb39285a2e5a1a1ce4ed70c46107f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/.android/build-cache/ffdd1e41885e20a595f7f1ae500a66ebc83f4e3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/michael/git/UNL_bathroom/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d558a463e2da2ae158c8ce439bb72dc27c02b35f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/git/UNL_bathroom/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fad0986290df2500918ee47c0d5f1c6a6fea5890">
+        <dex dex="/home/michael/git/UNL_bathroom/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72a8a695556f8c13534370b10e4e284567ea1302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/.android/build-cache/c696f96ec64a5f55bba8b12569dbb1c5c740e44e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/michael/git/UNL_bathroom/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_726a94a36f3ad7ea3f912396de4b30e45457e41f/classes.dex" />
+    </item>
+
+</items>

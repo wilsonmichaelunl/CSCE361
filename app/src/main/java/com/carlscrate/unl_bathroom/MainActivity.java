@@ -36,16 +36,10 @@ public class MainActivity extends Activity {
                 intent = new Intent(MainActivity.this, UnderConstruction.class);
                 startActivity(intent);
         }
-
-        /* Old if else statement
-        if(buildingName.equalsIgnoreCase("Avery Hall")){
-            //The intent is coming from MainActivity, it needs to launch BuildingActivity
-            Intent intent = new Intent(MainActivity.this, AveryActivity.class);
-            startActivity(intent);
-        }else{
-            Intent intent = new Intent(MainActivity.this, UnderConstruction.class);
-            startActivity(intent);
-        }
-        */
     }
+
+   public void onClickSendEmail(View view){
+       Intent intent = new Intent(MainActivity.this,SendEmailActivity.class);
+       startActivity(intent);
+   }
 }
