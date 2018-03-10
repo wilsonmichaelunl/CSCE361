@@ -4,12 +4,15 @@
     <string name="find_bathrooms">Find Bathrooms!</string>
     <string name="unl_logo">UNL logo</string>
     <string name="avery_hall">Avery Hall</string>
+    <string name="contribute_title">Request a Bathroom</string>
+    <string name="contribute_button">Contribute</string>
     <string name="avery_description">On City Campus, Avery Hall is southeast of Memorial Stadium and home to the Math and Computer Science departments</string>
     <string name="under_construction">This page is currently under construction</string>
     <string name="avery_hall_basement">Avery Hall Basement</string>
     <string name="avery_hall_first">Avery Hall 1st Floor</string>
     <string name="avery_hall_second">Avery Hall 2nd Floor</string>
     <string name="avery_hall_third">Avery Hall 3rd Floor</string>
+    <string name="contribute"><u>Click here if you would like to contribute and add a bathroom</u></string>
     <string name="floor_plan_description">Men\'s bathrooms will be denoted by an \"M\", followed by a number (Ex:M1). Women\'s bathrooms will be denoted by an \"W\", followed by a number (Ex:W1).</string>
     <string name="avery_mens_basement">The largest bathroom in Avery, this bathroom boasts seven stalls(two handicap), three urinals, and four sinks.
     In between classes this bathroom becomes very busy, causing it to be quite messy at times. What do I mean by messy? Sometimes you go into a stall and it looks like
@@ -26,6 +29,11 @@
     </string>
     <string name="avery_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
     bathroom, but it will get the job done.</string>
+    <string name="contribute_description">If you would like to have a bathroom added to the app, please include: \n
+    - what building and floor the bathroom is in \n
+    - a rating \n
+    - a picture of the bathroom \n
+    - a review </string>
     <string-array name="unl_buildings">
         <item>Avery Hall</item>
         <item>Burnett Hall</item>
