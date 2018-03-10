@@ -44,9 +44,15 @@ public class AveryActivity extends Activity {
                     //The intent is coming from AveryActivity, it needs to launch FloorActivity
                     Intent intent = new Intent(AveryActivity.this, AveryBasementFloorActivity.class);
                     startActivity((intent));
-                }else if(position== 1){
+                }else if(position == 1){
                     Intent intent = new Intent(AveryActivity.this, AveryFirstFloorActivity.class);
                     startActivity((intent));
+                }else if(position == 2){
+                    Intent intent = new Intent(AveryActivity.this, AverySecondFloorActivity.class);
+                    startActivity(intent);
+                }else if(position == 3){
+                    Intent intent = new Intent(AveryActivity.this, AveryThirdFloorActivity.class);
+                    startActivity(intent);
                 }else{
                     Intent intent = new Intent(AveryActivity.this, UnderConstruction.class);
                     startActivity(intent);
