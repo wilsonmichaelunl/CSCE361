@@ -29,7 +29,11 @@ public class MainActivity extends Activity {
             //The intent is coming from MainActivity, it needs to launch BuildingActivity
             Intent intent = new Intent(MainActivity.this, AveryActivity.class);
             startActivity(intent);
-        }else{
+        } else if(buildingName.equalsIgnoreCase("OldFather Hall")){
+            Intent intent = new Intent(MainActivity.this, OldfatherActivity.class);
+            startActivity(intent);
+        }
+        else{
             Intent intent = new Intent(MainActivity.this, UnderConstruction.class);
             startActivity(intent);
         }
