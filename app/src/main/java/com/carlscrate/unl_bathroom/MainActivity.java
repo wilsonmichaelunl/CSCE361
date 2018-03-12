@@ -25,18 +25,28 @@ public class MainActivity extends Activity {
         //Get the selected item in the Spinner
         String buildingName = String.valueOf(building.getSelectedItem());
 
-        if(buildingName.equalsIgnoreCase("Avery Hall")){
-            //The intent is coming from MainActivity, it needs to launch BuildingActivity
-            Intent intent = new Intent(MainActivity.this, AveryActivity.class);
-            startActivity(intent);
-        } else if(buildingName.equalsIgnoreCase("OldFather Hall")){
-            Intent intent = new Intent(MainActivity.this, OldfatherActivity.class);
-            startActivity(intent);
-        }
-        else{
-            Intent intent = new Intent(MainActivity.this, UnderConstruction.class);
-            startActivity(intent);
+
+        switch (buildingName){
+            case "Avery Hall":
+                //The intent is coming from MainActivity, it needs to launch BuildingActivity
+                Intent intent = new Intent(MainActivity.this, AveryActivity.class);
+                startActivity(intent);
+                break;
+
+            case "Oldfather Hall":
+                intent = new Intent(MainActivity.this, OldfatherActivity.class);
+                startActivity(intent);
+                break;
+
+            default:
+                intent = new Intent(MainActivity.this, UnderConstruction.class);
+                startActivity(intent);
+
         }
     }
-    //test again
+
+   public void onClickSendEmail(View view){
+       Intent intent = new Intent(MainActivity.this,SendEmailActivity.class);
+       startActivity(intent);
+   }
 }

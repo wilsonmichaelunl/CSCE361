@@ -9,16 +9,56 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AveryActivity" />
-        <activity android:name=".OldfatherActivity" />
-        <activity android:name=".UnderConstruction" />
+
+        <activity
+            android:name=".AveryActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".UnderConstruction"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".AveryBasementFloorActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".AveryMens0Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".AveryFirstFloorActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".AveryMens1Activity"
+            android:screenOrientation="portrait">
+            >
+        </activity>
+        <activity android:name=".AverySecondFloorActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryMens2Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryThirdFloorActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryMens3Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".SendEmailActivity"
+            android:screenOrientation="portrait">
+        </activity>
     </application>
 
 </manifest>

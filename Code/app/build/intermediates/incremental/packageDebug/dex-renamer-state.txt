@@ -1,7 +1,0 @@
-#Wed Mar 07 17:33:22 CST 2018
-base.0=/home/michael/git/UNL_bathroom/Code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_008540108902f2c2d09e5865744f51974a2ed739
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/michael/git/UNL_bathroom/Code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_96405e9af0692fa1f1678ca59e485061694b5e18/classes.dex
-base.1=/home/michael/git/UNL_bathroom/Code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_96405e9af0692fa1f1678ca59e485061694b5e18
-file.0=/home/michael/git/UNL_bathroom/Code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_008540108902f2c2d09e5865744f51974a2ed739/classes.dex
