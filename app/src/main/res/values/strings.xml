@@ -4,9 +4,12 @@
     <string name="find_bathrooms">Find Bathrooms!</string>
     <string name="unl_logo">UNL logo</string>
     <string name="avery_hall">Avery Hall</string>
+    <string name="oldfather_hall">Oldfather Hall</string>
+
     <string name="contribute_title">Request a Bathroom</string>
     <string name="contribute_button">Contribute</string>
     <string name="avery_description">On City Campus, Avery Hall is southeast of Memorial Stadium and home to the Math and Computer Science departments</string>
+    <string name="oldfather_description">On City Campus, Oldfather Hall is right cross the Avery Hall which is located at southeast of Memorial Stadium. </string>
     <string name="under_construction">This page is currently under construction</string>
     <string name="avery_hall_basement">Avery Hall Basement</string>
     <string name="avery_hall_first">Avery Hall 1st Floor</string>
@@ -45,8 +48,19 @@
         <item>2nd Floor</item>
         <item>3rd Floor</item>
     </string-array>
+
+
+
+    <string-array name="oldfather_floors">
+        <item>Basement</item>
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
+    </string-array>
+
     <string-array name="avery_basement_bathrooms">
         <item>Women\'s 1</item>
         <item>Men\'s 1</item>
+
     </string-array>
 </resources>
