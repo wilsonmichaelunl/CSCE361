@@ -19,6 +19,9 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".OldfatherActivity"
+                  android:screenOrientation="portrait">
+        </activity>
         <activity
             android:name=".AveryActivity"
             android:screenOrientation="portrait">
