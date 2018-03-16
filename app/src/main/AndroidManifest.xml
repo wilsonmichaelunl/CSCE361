@@ -17,8 +17,8 @@
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
-            android:screenOrientation="portrait"
         </activity>
+
         <activity
             android:name=".AveryActivity"
             android:screenOrientation="portrait">
@@ -35,10 +35,7 @@
             android:name=".AveryMens0Activity"
             android:screenOrientation="portrait">
         </activity>
-        <activity
-            android:name=".AndrewsMens0Activity"
-            android:screenOrientation="portrait">
-        </activity>
+
         <activity
             android:name=".AveryFirstFloorActivity"
             android:screenOrientation="portrait">
@@ -46,7 +43,6 @@
         <activity
             android:name=".AveryMens1Activity"
             android:screenOrientation="portrait">
-            >
         </activity>
         <activity android:name=".AverySecondFloorActivity">
         </activity>
@@ -72,8 +68,8 @@
         <activity
             android:name=".AndrewsMen1Activity"
             android:screenOrientation="portrait">
-            >
         </activity>
+
         <activity android:name=".AndrewsMen2Activity">
         </activity>
         <activity android:name=".AndrewsMen3Activity">
