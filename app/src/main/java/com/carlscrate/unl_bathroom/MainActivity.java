@@ -25,10 +25,17 @@ public class MainActivity extends Activity {
         //Get the selected item in the Spinner
         String buildingName = String.valueOf(building.getSelectedItem());
 
+
         switch (buildingName){
             case "Avery Hall":
                 //The intent is coming from MainActivity, it needs to launch BuildingActivity
                 Intent intent = new Intent(MainActivity.this, AveryActivity.class);
+                startActivity(intent);
+                break;
+
+
+            case "Oldfather Hall":
+                intent = new Intent(MainActivity.this, OldfatherActivity.class);
                 startActivity(intent);
                 break;
 
@@ -41,6 +48,7 @@ public class MainActivity extends Activity {
             default:
                 intent = new Intent(MainActivity.this, UnderConstruction.class);
                 startActivity(intent);
+
         }
     }
 

@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+
     defaultConfig {
         applicationId "com.carlscrate.unl_bathroom"
         minSdkVersion 19
@@ -11,6 +11,9 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
+
+
     buildTypes {
         release {
             minifyEnabled false
