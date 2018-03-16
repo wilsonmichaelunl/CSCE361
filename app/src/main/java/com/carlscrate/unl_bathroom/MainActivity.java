@@ -31,7 +31,11 @@ public class MainActivity extends Activity {
                 Intent intent = new Intent(MainActivity.this, AveryActivity.class);
                 startActivity(intent);
                 break;
-
+            case "Burnett Hall":
+                //The intent is coming from MainActivity, it needs to launch BuildingActivity
+                intent = new Intent(MainActivity.this, BurnettActivity.class);
+                startActivity(intent);
+                break;
             default:
                 intent = new Intent(MainActivity.this, UnderConstruction.class);
                 startActivity(intent);

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.carlscrate.unl_bathroom">
+    package="com.carlscrate.unl_bathroom">
 
     <application
         android:allowBackup="true"
@@ -13,47 +13,47 @@
             android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
             android:screenOrientation="portrait"
         </activity>
         <activity
             android:name=".AveryActivity"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".UnderConstruction"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryBasementFloorActivity"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryMens0Activity"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryFirstFloorActivity"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryMens1Activity"
             android:screenOrientation="portrait">
             >
         </activity>
-        <activity android:name=".AverySecondFloorActivity">
-        </activity>
-        <activity android:name=".AveryMens2Activity">
-        </activity>
-        <activity android:name=".AveryThirdFloorActivity">
-        </activity>
-        <activity android:name=".AveryMens3Activity">
-        </activity>
-        <activity android:name=".SendEmailActivity">
-        </activity>
+        <activity android:name=".AverySecondFloorActivity" />
+        <activity android:name=".AveryMens2Activity" />
+        <activity android:name=".AveryThirdFloorActivity" />
+        <activity android:name=".AveryMens3Activity" />
+        <activity android:name=".SendEmailActivity" />
+        <activity android:name=".BurnettActivity" />
+        <activity android:name=".BurnettBasementFloorActivity" />
+        <activity android:name=".BurnettFirstFloor" />
+        <activity android:name=".BurnettSecondFloorActivity" />
+        <activity android:name=".BurnettThirdFloorActivity" />
+        <activity android:name=".BurnettMens1Activity" />
+        <activity android:name=".BurnettMens2Activity" />
+        <activity android:name=".BurnettSecondFloor" />
+        <activity android:name=".BurnettMens3" />
+        <activity android:name=".BurnettMens4Activity"></activity>
     </application>
 
 </manifest>
