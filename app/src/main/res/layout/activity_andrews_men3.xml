@@ -38,7 +38,7 @@
             android:layout_width="296dp"
             android:layout_height="194dp"
             android:src="@drawable/andrew_pic"
-            android:contentDescription="@string/andrews_mens_first"
+            android:contentDescription="@string/andrews_mens_third"
             android:layout_marginRight="8dp"
             app:layout_constraintRight_toRightOf="parent"
             android:layout_marginLeft="8dp"
