@@ -33,8 +33,15 @@ public class MainActivity extends Activity {
                 startActivity(intent);
                 break;
 
+
             case "Oldfather Hall":
                 intent = new Intent(MainActivity.this, OldfatherActivity.class);
+                startActivity(intent);
+                break;
+
+            case "Andrews Hall":
+                //The intent is coming from MainActivity, it needs to launch BuildingActivity
+                intent = new Intent(MainActivity.this, AndrewsActivity.class);
                 startActivity(intent);
                 break;
 

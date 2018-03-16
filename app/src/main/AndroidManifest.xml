@@ -39,14 +39,16 @@
             android:screenOrientation="portrait">
         </activity>
         <activity
+
             android:name=".AveryWomens0Activity"
             android:screenOrientation="portrait">
         </activity>
-
+        
         <activity
             android:name=".AveryFirstFloorActivity"
             android:screenOrientation="portrait">
         </activity>
+
         <activity
             android:name=".AveryMens1Activity"
             android:screenOrientation="portrait">
@@ -76,8 +78,31 @@
             android:name=".AveryWomens3Activity"
             android:screenOrientation="portrait">
         </activity>
+
         <activity android:name=".SendEmailActivity"
             android:screenOrientation="portrait">
+
+        <activity
+            android:name=".AndrewsActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name=".AndrewsFirstFloorActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AndrewsSecondFloorActivity">
+        </activity>
+        <activity android:name=".AndrewsThirdFloorActivity">
+        </activity>
+        <activity
+            android:name=".AndrewsMen1Activity"
+            android:screenOrientation="portrait">
+            >
+        </activity>
+        <activity android:name=".AndrewsMen2Activity">
+        </activity>
+        <activity android:name=".AndrewsMen3Activity">
         </activity>
     </application>
 
