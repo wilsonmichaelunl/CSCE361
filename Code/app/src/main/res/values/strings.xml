@@ -4,13 +4,26 @@
     <string name="find_bathrooms">Find Bathrooms!</string>
     <string name="unl_logo">UNL logo</string>
     <string name="avery_hall">Avery Hall</string>
+    <string name="oldfather_hall">Oldfather Hall</string>
+    <string name="oldfather_description">On City Campus, Oldfather Hall is right cross the Avery Hall which is located at southeast of Memorial Stadium. </string>
+    <string name="andrews_hall">Andrews Hall</string>
+    <string name="contribute_title">Request a Bathroom</string>
+    <string name="contribute_button">Contribute</string>
     <string name="avery_description">On City Campus, Avery Hall is southeast of Memorial Stadium and home to the Math and Computer Science departments</string>
+    <string name="andrews_description">Located near selleck quadrangle. English lectures held here, also writing center is here.</string>
     <string name="under_construction">This page is currently under construction</string>
     <string name="avery_hall_basement">Avery Hall Basement</string>
     <string name="avery_hall_first">Avery Hall 1st Floor</string>
+    <string name="andrews_hall_first">Andrews Hall 1st Floor</string>
+    <string name="andrews_hall_second">Andrews Hall 2nd Floor</string>
+    <string name="andrews_hall_third">Andrews Hall 3rd Floor</string>
     <string name="avery_hall_second">Avery Hall 2nd Floor</string>
     <string name="avery_hall_third">Avery Hall 3rd Floor</string>
+    <string name="contribute"><u>Click here if you would like to contribute and add a bathroom</u></string>
     <string name="floor_plan_description">Men\'s bathrooms will be denoted by an \"M\", followed by a number (Ex:M1). Women\'s bathrooms will be denoted by an \"W\", followed by a number (Ex:W1).</string>
+    <string name="andrews_floor1_description">Male Room 103,\nFemale Room 123.</string>
+    <string name="andrews_floor2_description">Male Room 230,\nFemale Room 217.</string>
+    <string name="andrews_floor3_description">Male Room 335,\nFemale Room 339.1.</string>
     <string name="avery_mens_basement">The largest bathroom in Avery, this bathroom boasts seven stalls(two handicap), three urinals, and four sinks.
     In between classes this bathroom becomes very busy, causing it to be quite messy at times. What do I mean by messy? Sometimes you go into a stall and it looks like
     teenagers were TP-ing a house that wouldn\'t give them candy on Halloween. Because of the amount of traffic, this bathroom gets 3 stars in spite of it\'s large amount
@@ -26,17 +39,55 @@
     </string>
     <string name="avery_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
     bathroom, but it will get the job done.</string>
+    <string name="avery_womens_basement">The largest women bathroom in Avery, this bathroom boasts nine stalls(two handicap), four sinks, and two paper towel machine. However, this bathroom does not provide feminine hygiene products.\nThis bathroom is not very busy between classes, but sometimes the paper towels are ran out quickly. (Don\'t worry, there\'re enough roll paper towels prepared for each stalls.) This bathroom is also pretty clean during the day. Since it does not have feminine hygiene products, this bathroom gets 4 stars.</string>
+    <string name="avery_womens_first">The smallest women bathroom with two stalls, two sinks and one paper towel machine. The feminine hygiene product machine is out of use. This bathroom can be super busy between classes, so going downstairs\'s bathroom is a better choice.Sometimes it can be really messy and the toilet is not always in its good condition. In conclusion, 3 stars is given for this bathroom.</string>
+    <string name="avery_womens_second">The women bathroom on second floor has four sinks, four stalls and one of them is handicap stall. It does not have feminine hygiene products. It is mainly provided for office workers so it is not busy during the day. It is also super clean. Next to this bathroom is the elevator, so it is very convenient for the disabled people. Overall, it has 4 stars.</string>
+    <string name="avery_womens_third">The women bathroom on third floor has the same structure as second floor’s — four sinks, four stalls and one of them is handicap stall. It does not have feminine hygiene products. It is mainly provided for office workers so it is not busy during the day. It is also super clean. Next to this bathroom is the elevator, so it is very convenient for the disabled people. Overall, it has 4 stars.</string>
+
+    <string name="andrews_mens_first">On the busiest floor of Andrews sits the smallest bathroom in the building. One urinal, one stall, and two sinks. If you try to use this
+    bathroom in between classes, prepare to wait in line. If you\'re patient enough to wait in line, you will realize the pressure on your shoulders once it\'s your turn. You can
+    feel the eyes on the back of your head, glaring at you to hurry up and finish. Expect no privacy in here. The only plus side of this bathroom is it is relatively clean for
+    how much traffic it receives. This is because if someone makes a mess, it\'s easy to find the culprit. There is no way you can wash your hands and exit the bathroom without
+    someone seeing what you\'ve done. You will be caught.</string>
+    <string name="andrews_mens_second">Andrews\'s best kept secret. I was hesitant to write an honest review for this bathroom because of the increased activity that is bound to come.
+        Two urinals, two stalls(one handicap), and three sinks are more than enough for this hidden gem. Due to the low amount of traffic, this bathroom is exceptionally clean. Come here
+        for a relaxing experience, whether it\'s relieving yourself or simply sitting in a stall and enjoying a sandwich.
+    </string>
+    <string name="andrews_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
+    bathroom, but it will get the job done.</string>
+
+    <string name="contribute_description">If you would like to have a bathroom added to the app, please include: \n
+    - what building and floor the bathroom is in \n
+    - a rating \n
+    - a picture of the bathroom \n
+    - a review </string>
     <string-array name="unl_buildings">
+        <item>Andrews Hall</item>
         <item>Avery Hall</item>
         <item>Burnett Hall</item>
         <item>Oldfather Hall</item>
     </string-array>
+
     <string-array name="avery_floors">
         <item>Basement</item>
         <item>1st Floor</item>
         <item>2nd Floor</item>
         <item>3rd Floor</item>
     </string-array>
+
+    <string-array name="oldfather_floors">
+        <item>Basement</item>
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
+    </string-array>
+
+    <string-array name="andrews_floors">
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
+    </string-array>
+
     <string-array name="avery_basement_bathrooms">
         <item>Women\'s 1</item>
         <item>Men\'s 1</item>
