@@ -17,11 +17,13 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
 
         <activity android:name=".OldfatherActivity"
                   android:screenOrientation="portrait">
         </activity>
+
         <activity
             android:name=".AveryActivity"
             android:screenOrientation="portrait">
@@ -38,12 +40,14 @@
             android:name=".AveryMens0Activity"
             android:screenOrientation="portrait">
         </activity>
+
         <activity
 
             android:name=".AveryWomens0Activity"
             android:screenOrientation="portrait">
         </activity>
         
+>>>>>>> master
         <activity
             android:name=".AveryFirstFloorActivity"
             android:screenOrientation="portrait">
@@ -52,7 +56,6 @@
         <activity
             android:name=".AveryMens1Activity"
             android:screenOrientation="portrait">
-            >
         </activity>
         <activity
             android:name=".AveryWomens1Activity"
@@ -81,6 +84,7 @@
 
         <activity android:name=".SendEmailActivity"
             android:screenOrientation="portrait">
+        </activity>
 
         <activity
             android:name=".AndrewsActivity"
@@ -98,8 +102,8 @@
         <activity
             android:name=".AndrewsMen1Activity"
             android:screenOrientation="portrait">
-            >
         </activity>
+
         <activity android:name=".AndrewsMen2Activity">
         </activity>
         <activity android:name=".AndrewsMen3Activity">
