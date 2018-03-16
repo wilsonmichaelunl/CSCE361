@@ -46,8 +46,7 @@
             android:name=".AveryWomens0Activity"
             android:screenOrientation="portrait">
         </activity>
-        
->>>>>>> master
+
         <activity
             android:name=".AveryFirstFloorActivity"
             android:screenOrientation="portrait">
@@ -95,18 +94,22 @@
             android:name=".AndrewsFirstFloorActivity"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AndrewsSecondFloorActivity">
+        <activity android:name=".AndrewsSecondFloorActivity"
+                  android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AndrewsThirdFloorActivity">
+        <activity android:name=".AndrewsThirdFloorActivity"
+                  android:screenOrientation="portrait">
         </activity>
         <activity
             android:name=".AndrewsMen1Activity"
             android:screenOrientation="portrait">
         </activity>
 
-        <activity android:name=".AndrewsMen2Activity">
+        <activity android:name=".AndrewsMen2Activity"
+                  android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AndrewsMen3Activity">
+        <activity android:name=".AndrewsMen3Activity"
+                  android:screenOrientation="portrait">
         </activity>
     </application>
 

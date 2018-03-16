@@ -55,7 +55,6 @@
     </string>
     <string name="andrews_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
     bathroom, but it will get the job done.</string>
->>>>>>> e6cbc4c22d84cd765438336ee1f55d0431286eff
 
     <string name="contribute_description">If you would like to have a bathroom added to the app, please include: \n
     - what building and floor the bathroom is in \n
@@ -63,10 +62,10 @@
     - a picture of the bathroom \n
     - a review </string>
     <string-array name="unl_buildings">
+        <item>Andrews Hall</item>
         <item>Avery Hall</item>
         <item>Burnett Hall</item>
         <item>Oldfather Hall</item>
-        <item>Andrews Hall</item>
     </string-array>
 
     <string-array name="avery_floors">
@@ -76,10 +75,11 @@
         <item>3rd Floor</item>
     </string-array>
 
-
-
     <string-array name="oldfather_floors">
         <item>Basement</item>
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
     </string-array>
 
     <string-array name="andrews_floors">
