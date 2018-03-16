@@ -37,7 +37,7 @@ public class AndrewsThirdFloorActivity extends Activity {
                 switch (position) {
 
                     case 1:
-                        Intent intent = new Intent(AndrewsThirdFloorActivity.this, AndrewsMen1Activity.class);
+                        Intent intent = new Intent(AndrewsThirdFloorActivity.this, AndrewsMen3Activity.class);
                         startActivity(intent);
                         break;
 

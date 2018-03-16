@@ -4,6 +4,8 @@
     <string name="find_bathrooms">Find Bathrooms!</string>
     <string name="unl_logo">UNL logo</string>
     <string name="avery_hall">Avery Hall</string>
+    <string name="oldfather_hall">Oldfather Hall</string>
+    <string name="oldfather_description">On City Campus, Oldfather Hall is right cross the Avery Hall which is located at southeast of Memorial Stadium. </string>
     <string name="andrews_hall">Andrews Hall</string>
     <string name="contribute_title">Request a Bathroom</string>
     <string name="contribute_button">Contribute</string>
@@ -37,6 +39,10 @@
     </string>
     <string name="avery_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
     bathroom, but it will get the job done.</string>
+    <string name="avery_womens_basement">The largest women bathroom in Avery, this bathroom boasts nine stalls(two handicap), four sinks, and two paper towel machine. However, this bathroom does not provide feminine hygiene products.\nThis bathroom is not very busy between classes, but sometimes the paper towels are ran out quickly. (Don\'t worry, there\'re enough roll paper towels prepared for each stalls.) This bathroom is also pretty clean during the day. Since it does not have feminine hygiene products, this bathroom gets 4 stars.</string>
+    <string name="avery_womens_first">The smallest women bathroom with two stalls, two sinks and one paper towel machine. The feminine hygiene product machine is out of use. This bathroom can be super busy between classes, so going downstairs\'s bathroom is a better choice.Sometimes it can be really messy and the toilet is not always in its good condition. In conclusion, 3 stars is given for this bathroom.</string>
+    <string name="avery_womens_second">The women bathroom on second floor has four sinks, four stalls and one of them is handicap stall. It does not have feminine hygiene products. It is mainly provided for office workers so it is not busy during the day. It is also super clean. Next to this bathroom is the elevator, so it is very convenient for the disabled people. Overall, it has 4 stars.</string>
+    <string name="avery_womens_third">The women bathroom on third floor has the same structure as second floor’s — four sinks, four stalls and one of them is handicap stall. It does not have feminine hygiene products. It is mainly provided for office workers so it is not busy during the day. It is also super clean. Next to this bathroom is the elevator, so it is very convenient for the disabled people. Overall, it has 4 stars.</string>
 
     <string name="andrews_mens_first">3 stalls, 3 urinals, looks tidy but usually this bathroom is crowded because it is in the first floor.</string>
 
@@ -51,19 +57,27 @@
     - a picture of the bathroom \n
     - a review </string>
     <string-array name="unl_buildings">
+        <item>Andrews Hall</item>
         <item>Avery Hall</item>
         <item>Burnett Hall</item>
         <item>Oldfather Hall</item>
-        <item>Andrews Hall</item>
     </string-array>
+
     <string-array name="avery_floors">
         <item>Basement</item>
         <item>1st Floor</item>
         <item>2nd Floor</item>
         <item>3rd Floor</item>
     </string-array>
-    <string-array name="andrews_floors">
 
+    <string-array name="oldfather_floors">
+        <item>Basement</item>
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
+    </string-array>
+
+    <string-array name="andrews_floors">
         <item>1st Floor</item>
         <item>2nd Floor</item>
         <item>3rd Floor</item>

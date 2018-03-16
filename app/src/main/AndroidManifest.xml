@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.carlscrate.unl_bathroom">
+    package="com.carlscrate.unl_bathroom">
 
     <application
         android:allowBackup="true"
@@ -13,10 +13,15 @@
             android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+        </activity>
+
+        <activity android:name=".OldfatherActivity"
+                  android:screenOrientation="portrait">
         </activity>
 
         <activity
@@ -37,45 +42,74 @@
         </activity>
 
         <activity
+
+            android:name=".AveryWomens0Activity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
             android:name=".AveryFirstFloorActivity"
             android:screenOrientation="portrait">
         </activity>
+
         <activity
             android:name=".AveryMens1Activity"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AverySecondFloorActivity">
+        <activity
+            android:name=".AveryWomens1Activity"
+            android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryMens2Activity">
+        <activity android:name=".AverySecondFloorActivity"
+            android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryThirdFloorActivity">
+        <activity android:name=".AveryMens2Activity"
+            android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AveryMens3Activity">
+        <activity
+            android:name=".AveryWomens2Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryThirdFloorActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".AveryMens3Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".AveryWomens3Activity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".SendEmailActivity"
+            android:screenOrientation="portrait">
         </activity>
 
         <activity
             android:name=".AndrewsActivity"
             android:screenOrientation="portrait">
         </activity>
+
         <activity
             android:name=".AndrewsFirstFloorActivity"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AndrewsSecondFloorActivity">
+        <activity android:name=".AndrewsSecondFloorActivity"
+                  android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AndrewsThirdFloorActivity">
+        <activity android:name=".AndrewsThirdFloorActivity"
+                  android:screenOrientation="portrait">
         </activity>
         <activity
             android:name=".AndrewsMen1Activity"
             android:screenOrientation="portrait">
         </activity>
 
-        <activity android:name=".AndrewsMen2Activity">
+        <activity android:name=".AndrewsMen2Activity"
+                  android:screenOrientation="portrait">
         </activity>
-        <activity android:name=".AndrewsMen3Activity">
-        </activity>
-
-        <activity android:name=".SendEmailActivity">
+        <activity android:name=".AndrewsMen3Activity"
+                  android:screenOrientation="portrait">
         </activity>
     </application>
 
