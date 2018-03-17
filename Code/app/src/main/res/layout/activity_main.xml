@@ -76,4 +76,23 @@
         app:layout_constraintVertical_bias="0.63"
         app:layout_constraintHorizontal_bias="0.504"/>
 
+    <TextView
+        android:id="@+id/contribute"
+        android:layout_width="232dp"
+        android:layout_height="47dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/contribute"
+        android:onClick="onClickSendEmail"
+        android:clickable="true"
+        android:textColor="#335ce5"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.3"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/find_bathroom"
+        />
+
 </android.support.constraint.ConstraintLayout>

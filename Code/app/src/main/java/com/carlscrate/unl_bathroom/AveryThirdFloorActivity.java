@@ -47,6 +47,10 @@ public class AveryThirdFloorActivity extends Activity {
                         Intent intent = new Intent(AveryThirdFloorActivity.this, AveryMens3Activity.class);
                         startActivity(intent);
                         break;
+                    case 0:
+                        intent = new Intent(AveryThirdFloorActivity.this, AveryWomens3Activity.class);
+                        startActivity(intent);
+                        break;
 
                     default:
                         intent = new Intent(AveryThirdFloorActivity.this, UnderConstruction.class);
