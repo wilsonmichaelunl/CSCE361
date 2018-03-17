@@ -44,18 +44,12 @@
     <string name="avery_womens_second">The women bathroom on second floor has four sinks, four stalls and one of them is handicap stall. It does not have feminine hygiene products. It is mainly provided for office workers so it is not busy during the day. It is also super clean. Next to this bathroom is the elevator, so it is very convenient for the disabled people. Overall, it has 4 stars.</string>
     <string name="avery_womens_third">The women bathroom on third floor has the same structure as second floor’s — four sinks, four stalls and one of them is handicap stall. It does not have feminine hygiene products. It is mainly provided for office workers so it is not busy during the day. It is also super clean. Next to this bathroom is the elevator, so it is very convenient for the disabled people. Overall, it has 4 stars.</string>
 
-    <string name="andrews_mens_first">On the busiest floor of Andrews sits the smallest bathroom in the building. One urinal, one stall, and two sinks. If you try to use this
-    bathroom in between classes, prepare to wait in line. If you\'re patient enough to wait in line, you will realize the pressure on your shoulders once it\'s your turn. You can
-    feel the eyes on the back of your head, glaring at you to hurry up and finish. Expect no privacy in here. The only plus side of this bathroom is it is relatively clean for
-    how much traffic it receives. This is because if someone makes a mess, it\'s easy to find the culprit. There is no way you can wash your hands and exit the bathroom without
-    someone seeing what you\'ve done. You will be caught.</string>
-    <string name="andrews_mens_second">Andrews\'s best kept secret. I was hesitant to write an honest review for this bathroom because of the increased activity that is bound to come.
-        Two urinals, two stalls(one handicap), and three sinks are more than enough for this hidden gem. Due to the low amount of traffic, this bathroom is exceptionally clean. Come here
-        for a relaxing experience, whether it\'s relieving yourself or simply sitting in a stall and enjoying a sandwich.
+    <string name="andrews_mens_first">3 stalls, 3 urinals, looks tidy but usually this bathroom is crowded because it is in the first floor.</string>
+
+    <string name="andrews_mens_second">Here are 6 stalls, 4 urinals, tidy no smell, the best option to "go" in andrews after your English class.
     </string>
-    <string name="andrews_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
-    bathroom, but it will get the job done.</string>
->>>>>>> e6cbc4c22d84cd765438336ee1f55d0431286eff
+
+    <string name="andrews_mens_third">3 stalls, 3 urinals, not crowded at all, good place if you need somewhere to relax.</string>
 
     <string name="contribute_description">If you would like to have a bathroom added to the app, please include: \n
     - what building and floor the bathroom is in \n
@@ -63,10 +57,10 @@
     - a picture of the bathroom \n
     - a review </string>
     <string-array name="unl_buildings">
+        <item>Andrews Hall</item>
         <item>Avery Hall</item>
         <item>Burnett Hall</item>
         <item>Oldfather Hall</item>
-        <item>Andrews Hall</item>
     </string-array>
 
     <string-array name="avery_floors">
@@ -76,10 +70,11 @@
         <item>3rd Floor</item>
     </string-array>
 
-
-
     <string-array name="oldfather_floors">
         <item>Basement</item>
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
     </string-array>
 
     <string-array name="andrews_floors">
