@@ -29,6 +29,11 @@
     <string name="andrews_floor1_description">Male Room 103,\nFemale Room 123.</string>
     <string name="andrews_floor2_description">Male Room 230,\nFemale Room 217.</string>
     <string name="andrews_floor3_description">Male Room 335,\nFemale Room 339.1.</string>
+
+
+
+
+
     <string name="avery_mens_basement">The largest bathroom in Avery, this bathroom boasts seven stalls(two handicap), three urinals, and four sinks.
     In between classes this bathroom becomes very busy, causing it to be quite messy at times. What do I mean by messy? Sometimes you go into a stall and it looks like
     teenagers were TP-ing a house that wouldn\'t give them candy on Halloween. Because of the amount of traffic, this bathroom gets 3 stars in spite of it\'s large amount
@@ -62,7 +67,32 @@
     <string name="andrews_mens_second">Here are 6 stalls, 4 urinals, tidy no smell, the best option to "go" in andrews after your English class.
     </string>
 
+    <string name="andrews_mens_third">Two urinals, two stalls(one handicap), three sinks. Identical to the bathroom on the second floor but a little more traffic. Nothing special about this
+    bathroom, but it will get the job done.</string>
+
+
+
+    <string name="oldfather_hall_first">Andrews Hall 1st Floor</string>
+    <string name="oldfather_hall_second">Andrews Hall 2nd Floor</string>
+    <string name="oldfather_hall_third">Andrews Hall 3rd Floor</string>
+
+    <string name="oldfather_floor1_description">Male Room 102,\nFemale Room 105.</string>
+    <string name="oldfather_floor2_description">Male Room 202,\nFemale Room 206.</string>
+    <string name="oldfather_floor3_description">Male Room 302,\nFemale Room 306</string>
+
+
+    <string name="oldfather_mens_first">Three urinal, two stalls(one handicap), and three sinks.
+
+   </string>
+    <string name="oldfather_mens_second">Three urinal, two stalls(one handicap), and three sinks.
+    </string>
+
+    <string name="oldfather_mens_third">Three urinal, two stalls(one handicap), and three sinks. </string>
+
+
+
     <string name="andrews_mens_third">3 stalls, 3 urinals, not crowded at all, good place if you need somewhere to relax.</string>
+
 
     <string name="contribute_description">If you would like to have a bathroom added to the app, please include: \n
     - what building and floor the bathroom is in \n
@@ -100,6 +130,15 @@
     </string-array>
 
     <string-array name="andrews_floors">
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
+    </string-array>
+
+
+
+
+    <string-array name="oldfather_bathrooms">
         <item>1st Floor</item>
         <item>2nd Floor</item>
         <item>3rd Floor</item>
