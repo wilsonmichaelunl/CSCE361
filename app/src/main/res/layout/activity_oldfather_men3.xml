@@ -5,15 +5,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.carlscrate.unl_bathroom.AveryWomens0Activity">
+    tools:context="com.carlscrate.unl_bathroom.OldfatherMen3Activity">
 
     <RatingBar
-        android:id="@+id/ratingBarAWM0"
+        android:id="@+id/ratingBarAM1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:numStars="5"
-        android:stepSize="1.0"
-        android:rating="4.0"
+        android:stepSize="0.5"
+        android:rating="3.5"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
         android:layout_marginRight="8dp"
@@ -26,38 +26,36 @@
 
 
     <ImageView
-        android:id="@+id/avery_basement_women"
+        android:id="@+id/oldfather_third_mens"
         android:layout_width="296dp"
         android:layout_height="194dp"
-        android:src="@drawable/averywomenbasement"
-        android:contentDescription="@string/avery_hall_basement"
+        android:src="@drawable/oldfatherthirdmen"
+        android:contentDescription="@string/oldfather_hall_third"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_marginBottom="8dp"
-        app:layout_constraintVertical_bias="0.236"
+        app:layout_constraintVertical_bias="0.0"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        />
+        app:layout_constraintTop_toBottomOf="@+id/ratingBarAM1"/>
 
     <TextView
-        android:id="@+id/avery_basement_womens_description"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/oldfather_third_mens_description"
+        android:layout_width="364dp"
+        android:layout_height="234dp"
         android:layout_gravity="center"
-        android:layout_marginBottom="8dp"
-        android:layout_marginTop="8dp"
         android:gravity="center"
-        android:text="@string/avery_womens_basement"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        android:text="@string/oldfather_mens_third"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.842" />
+        app:layout_constraintVertical_bias="0.07"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/oldfather_third_mens"/>
 
 </android.support.constraint.ConstraintLayout>
