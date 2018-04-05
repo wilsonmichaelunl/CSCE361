@@ -30,7 +30,7 @@
         android:id="@+id/andrews_first_imageView"
         android:layout_width="266dp"
         android:layout_height="219dp"
-        android:src="@drawable/andrew_pic"
+
         android:contentDescription="@string/andrews_hall_first"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="parent"
