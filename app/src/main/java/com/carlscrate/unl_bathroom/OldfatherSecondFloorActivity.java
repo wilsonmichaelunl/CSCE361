@@ -41,7 +41,7 @@ public class OldfatherSecondFloorActivity extends Activity {
                 }
             }
         };
-        ListView listView = (ListView) findViewById(R.id.gender);
+        ListView listView = (ListView) findViewById(R.id.oldfather_second_bathrooms);
         listView.setOnItemClickListener(itemClickListener);
     }
 }
