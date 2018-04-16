@@ -17,13 +17,28 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-
-        <activity android:name=".OldfatherActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-
+        <activity
+            android:name=".OldfatherActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OldfatherFirstFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OldfatherMen1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OldfatherMen2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OldfatherMen3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OldfatherSecondFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OldfatherThirdFloorActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryActivity"
             android:screenOrientation="portrait" />
@@ -35,117 +50,97 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".AveryMens0Activity"
-
             android:screenOrientation="portrait" />
         <activity
             android:name=".AveryFirstFloorActivity"
-            android:screenOrientation="portrait" >
-        </activity>
-
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryWomens0Activity"
-            android:screenOrientation="portrait">
-        </activity>
-
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryMens1Activity"
-            android:screenOrientation="portrait">
-        </activity>
-
-
-        <activity android:name=".SendEmailActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SendEmailActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryWomens1Activity"
-            android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AverySecondFloorActivity"
-            android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AveryMens2Activity"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AverySecondFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AveryMens2Activity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryWomens2Activity"
-            android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AveryThirdFloorActivity"
-            android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AveryMens3Activity"
-            android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AveryThirdFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AveryMens3Activity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AveryWomens3Activity"
-            android:screenOrientation="portrait">
-        </activity>
-
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AndrewsActivity"
-            android:screenOrientation="portrait">
-        </activity>
-
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AndrewsFirstFloorActivity"
-            android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AndrewsSecondFloorActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AndrewsThirdFloorActivity"
-                  android:screenOrientation="portrait">
-        </activity>
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AndrewsSecondFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AndrewsThirdFloorActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".AndrewsMen1Activity"
-            android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".AndrewsMen2Activity"
-                  android:screenOrientation="portrait">
-        </activity>
-        <activity android:name=".AndrewsMen3Activity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettBasementFloorActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettFirstFloor"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettSecondFloorActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettThirdFloorActivity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettMens1Activity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettMens2Activity"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettMens3"
-                  android:screenOrientation="portrait">
-        </activity>
-
-        <activity android:name=".BurnettMens4Activity"
-                  android:screenOrientation="portrait">
-        </activity>
-
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AndrewsMen2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AndrewsMen3Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettBasementFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettFirstFloor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettSecondFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettThirdFloorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettMens1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettMens2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettMens3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BurnettMens4Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity_avery_women1"
+            android:label="@string/title_activity_avery_women1" />
+        <activity
+            android:name=".activity_oldfather_women2"
+            android:label="@string/title_activity_oldfather_women2" />
+        <activity
+            android:name=".activity_oldfather_women3"
+            android:label="@string/title_activity_oldfather_women3"></activity>
     </application>
 
 </manifest>

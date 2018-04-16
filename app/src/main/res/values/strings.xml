@@ -31,9 +31,6 @@
     <string name="andrews_floor3_description">Male Room 335,\nFemale Room 339.1.</string>
 
 
-
-
-
     <string name="avery_mens_basement">The largest bathroom in Avery, this bathroom boasts seven stalls(two handicap), three urinals, and four sinks.
     In between classes this bathroom becomes very busy, causing it to be quite messy at times. What do I mean by messy? Sometimes you go into a stall and it looks like
     teenagers were TP-ing a house that wouldn\'t give them candy on Halloween. Because of the amount of traffic, this bathroom gets 3 stars in spite of it\'s large amount
@@ -71,7 +68,6 @@
     bathroom, but it will get the job done.</string>
 
 
-
     <string name="oldfather_hall_first">Andrews Hall 1st Floor</string>
     <string name="oldfather_hall_second">Andrews Hall 2nd Floor</string>
     <string name="oldfather_hall_third">Andrews Hall 3rd Floor</string>
@@ -84,6 +80,13 @@
     <string name="oldfather_mens_first">Three urinal, two stalls(one handicap), and three sinks.
 
    </string>
+
+    <string name="oldfather_women_first">Oldfather Women 1st test</string>
+    <string name="oldfather_women_second">Oldfather Women 2nd test</string>
+    <string name="oldfather_women_third">Oldfather Women 3rd test</string>
+
+
+
     <string name="oldfather_mens_second">Three urinal, two stalls(one handicap), and three sinks.
     </string>
 
@@ -119,7 +122,7 @@
 
 
     <string-array name="oldfather_floors">
-        <item>Basement</item>
+
         <item>1st Floor</item>
         <item>2nd Floor</item>
         <item>3rd Floor</item>
@@ -130,8 +133,6 @@
         <item>2nd Floor</item>
         <item>3rd Floor</item>
     </string-array>
-
-
 
 
     <string-array name="oldfather_bathrooms">
@@ -145,4 +146,7 @@
         <item>Women\'s 1</item>
         <item>Men\'s 1</item>
     </string-array>
+    <string name="title_activity_avery_women1">activity_avery_women1</string>
+    <string name="title_activity_oldfather_women2">activity_oldfather_women2</string>
+    <string name="title_activity_oldfather_women3">activity_oldfather_women3</string>
 </resources>
