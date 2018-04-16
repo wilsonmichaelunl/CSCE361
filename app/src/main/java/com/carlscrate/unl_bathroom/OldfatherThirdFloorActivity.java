@@ -29,7 +29,7 @@ public class OldfatherThirdFloorActivity extends Activity {
                         break;
                     */
 
-                    case 1:
+                    case 0:
                         Intent intent = new Intent(OldfatherThirdFloorActivity.this, OldfatherMen3Activity.class);
                         startActivity(intent);
                         break;

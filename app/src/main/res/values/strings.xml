@@ -68,9 +68,9 @@
     bathroom, but it will get the job done.</string>
 
 
-    <string name="oldfather_hall_first">Andrews Hall 1st Floor</string>
-    <string name="oldfather_hall_second">Andrews Hall 2nd Floor</string>
-    <string name="oldfather_hall_third">Andrews Hall 3rd Floor</string>
+    <string name="oldfather_hall_first">Oldfather Hall 1st Floor</string>
+    <string name="oldfather_hall_second">Oldfather Hall 2nd Floor</string>
+    <string name="oldfather_hall_third">Oldfather Hall 3rd Floor</string>
 
     <string name="oldfather_floor1_description">Male Room 102,\nFemale Room 105.</string>
     <string name="oldfather_floor2_description">Male Room 202,\nFemale Room 206.</string>
@@ -136,9 +136,9 @@
 
 
     <string-array name="oldfather_bathrooms">
-        <item>1st Floor</item>
-        <item>2nd Floor</item>
-        <item>3rd Floor</item>
+        <item>Men</item>
+        <item>Women</item>
+
     </string-array>
 
 
