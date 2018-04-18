@@ -28,9 +28,12 @@ public class BurnettBasementFloorActivity extends Activity {
                         startActivity((intent));
                         break;
                     */
-
+                    case 0:
+                        Intent intent = new Intent(BurnettBasementFloorActivity.this, BurnettWomens0.class);
+                        startActivity(intent);
+                        break;
                     case 1:
-                        Intent intent = new Intent(BurnettBasementFloorActivity.this, BurnettMens1Activity.class);
+                         intent = new Intent(BurnettBasementFloorActivity.this, BurnettMens1Activity.class);
                         startActivity(intent);
                         break;
 
