@@ -19,16 +19,13 @@ public class BurnettSecondFloorActivity extends Activity {
                                     int position,
                                     long id) {
                 switch (position) {
-                    /*
                     case 0:
-                        //The intent is coming from AveryActivity, it needs to launch BathroomActivity
-                        Intent intent = new Intent(AveryBasementFloorActivity.this, AveryBasementFloor.class);
-                        startActivity((intent));
+                        Intent intent = new Intent(BurnettSecondFloorActivity.this, BurnettWomen2.class);
+                        startActivity(intent);
                         break;
-                    */
 
                     case 1:
-                        Intent intent = new Intent(BurnettSecondFloorActivity.this, BurnettMens3.class);
+                        intent = new Intent(BurnettSecondFloorActivity.this, BurnettMens3.class);
                         startActivity(intent);
                         break;
 

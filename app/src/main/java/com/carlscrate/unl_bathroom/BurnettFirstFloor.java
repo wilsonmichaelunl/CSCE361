@@ -23,12 +23,15 @@ public class BurnettFirstFloor extends Activity {
                     case 0:
                         //The intent is coming from AveryActivity, it needs to launch BathroomActivity
                         Intent intent = new Intent(AveryBasementFloorActivity.this, AveryBasementFloor.class);
-                        startActivity((intent));
+                        startActivity((intent));irst
                         break;
                     */
-
+                    case 0:
+                        Intent intent = new Intent(BurnettFirstFloor.this, BurnettWomen1.class);
+                        startActivity(intent);
+                        break;
                     case 1:
-                        Intent intent = new Intent(BurnettFirstFloor.this, BurnettMens2Activity.class);
+                        intent = new Intent(BurnettFirstFloor.this, BurnettMens2Activity.class);
                         startActivity(intent);
                         break;
 

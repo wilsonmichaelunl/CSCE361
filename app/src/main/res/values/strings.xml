@@ -35,10 +35,22 @@
     of amenities.</string>
     <string name="burnett_mens_basement">A typical bathroom in burnett hall, this bathroom boasts 4 stalls(1 handicap), 2 urinals, and 2 sinks.
     There is always free because no classroom in here. if you are unable to find available space. it'd s good choice to go basement.there is also the most clean place in burnett hall</string>
+    <string name="burnett_womens_basement">Rating: 3.5
+        This women bathroom has two sinks, four stalls and one of them is handicapped stall. There’s no feminine hygiene products provided. Sometimes there are trashes on the floor. Overall this bathroom has 3.5 stars.
+</string>
     <string name="burnett_mens_first">A typical bathroom in burnett hall, this bathroom boasts 4 stalls(1 handicap), 2 urinals, and 2 sinks.
     There are lost of classroom in here so it is busy between class. but the cleaniness in here is very good.</string>
+    <string name="burnett_women_first">Rating: 4.5
+This bathroom has two sinks, four stalls and one of them is handicap stall. Feminine hygiene products are provided for free. This bathroom is busy between classes but it is still pretty clean. The only problem is that it is not easy to find. If you cannot find it, just find room number 110. Overall, it has 4.5 stars!
+</string>
     <string name="burnett_mens_second">A typical bathroom in burnett hall, this bathroom boasts 4 stalls(1 handicap), 2 urinals, and 2 sinks.
     There are some classroom in here but not very much.It's is empty in most time and get better cleaniness than first floor.</string>
+    <string name="burnett_women_second">Rating: 4
+This women bathroom 206 has the same structure as other women bathrooms — has two sinks, four stalls and one of them is handicap stall. This bathroom does not provide feminine hygiene products so you have to pick at downstairs. It is super clean and tidy. 4 stars for this bathroom.
+</string>
+    <string name="burnett_women_third">Rating: 4
+This bathroom has the same structure as other women bathrooms — has two sinks, four stalls and one of them is handicap stall. This floor does not have much classrooms so it is not busy between classes. This bathroom does not provide feminine hygiene products so you have to pick at first floor. Overall, 4 stars for this bathroom.
+</string>
     <string name="burnett_mens_third">A typical bathroom in burnett hall, this bathroom boasts 4 stalls(1 handicap), 2 urinals, and 2 sinks.
     This bathroom is always empty unless come to lunch time.the cleaniness is also very good</string>
     <string name="avery_mens_first">On the busiest floor of Avery sits the smallest bathroom in the building. One urinal, one stall, and two sinks. If you try to use this
