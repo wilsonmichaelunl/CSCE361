@@ -80,6 +80,13 @@ This bathroom has the same structure as other women bathrooms — has two sinks,
     bathroom, but it will get the job done.</string>
 
 
+    <string name="andrews_womens_first">This floor was renovated last year so this women bathroom is the largest and newest in Andrews Hall. It has four sinks, six stalls and two of them are handicapped stalls. It provides free feminine hygiene products. Between classes, it can be messy and you will see that trash cans are full of paper towels. Overall, it has 4 stars.
+*There is a restroom (neutral or family use) next to the this women bathroom.</string>
+    <string name="andrews_womens_second">This is an old-fashioned women bathroom located at office areas, with seven stalls and four sinks. This bathroom does not have handicapped stall and feminine hygiene products. Overall it has 3.5 stars.</string>
+    <string name="andrews_womens_third">This bathroom is located at office ares, with seven stalls (one of them is handicapped) and four sinks. No feminine hygiene products are available on this floor. It provided with enough paper towel machines so you don’t need to worry about the trash can overflows. It is super clean and tidy so 4 stars is given.
+</string>
+
+
 
     <string name="oldfather_hall_first">Andrews Hall 1st Floor</string>
     <string name="oldfather_hall_second">Andrews Hall 2nd Floor</string>
