@@ -88,6 +88,15 @@
             android:name=".AndrewsMen3Activity"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".AndrewsWomen1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AndrewsWomen2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AndrewsWomen3Activity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".BurnettActivity"
             android:screenOrientation="portrait" />
         <activity

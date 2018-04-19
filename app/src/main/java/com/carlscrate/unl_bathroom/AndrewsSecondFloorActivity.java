@@ -40,7 +40,10 @@ public class AndrewsSecondFloorActivity extends Activity {
                         Intent intent = new Intent(AndrewsSecondFloorActivity.this, AndrewsMen2Activity.class);
                         startActivity(intent);
                         break;
-
+                    case 0:
+                        Intent intent1 = new Intent(AndrewsSecondFloorActivity.this, AndrewsWomen2Activity.class);
+                        startActivity(intent1);
+                        break;
                     default:
                         intent = new Intent(AndrewsSecondFloorActivity.this, UnderConstruction.class);
                         startActivity(intent);
